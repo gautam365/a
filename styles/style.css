@@ -1,0 +1,24 @@
+body {
+    background-color: #C780FA;
+    text-align: center;
+}
+
+P {
+    font-family: 'Pacifico';
+}
+
+img {
+    max-width: 100%;  
+    height: auto; 
+}
+
+.message {
+    margin: 0;
+}
+
+@media screen (max-width: 900px;) { 
+    body {
+        text-align: center;
+    }
+    
+}
